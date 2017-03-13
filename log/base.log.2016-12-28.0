@@ -1,0 +1,36 @@
+2016-12-28 15:19:51,792 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMysqlApplication on luohuasen with PID 6284 (D:\hand\spring-boot-sample-mysql\target\classes started by seth in D:\hand\spring-boot-sample-mysql)
+2016-12-28 15:19:51,796 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+2016-12-28 15:19:51,798 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2016-12-28 15:21:52,906 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMysqlApplication on luohuasen with PID 6184 (D:\hand\spring-boot-sample-mysql\target\classes started by seth in D:\hand\spring-boot-sample-mysql)
+2016-12-28 15:21:52,948 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+2016-12-28 15:21:52,950 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2016-12-28 15:22:00,719 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleMysqlApplication in 8.583 seconds (JVM running for 9.481)
+2016-12-28 15:41:13,664 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMysqlApplication on luohuasen with PID 4528 (D:\hand\spring-boot-sample-mysql\target\classes started by seth in D:\hand\spring-boot-sample-mysql)
+2016-12-28 15:41:13,668 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+2016-12-28 15:41:13,668 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2016-12-28 15:41:22,584 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleMysqlApplication in 9.922 seconds (JVM running for 10.944)
+2016-12-28 15:42:46,695 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMysqlApplication on luohuasen with PID 6640 (D:\hand\spring-boot-sample-mysql\target\classes started by seth in D:\hand\spring-boot-sample-mysql)
+2016-12-28 15:42:46,729 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+2016-12-28 15:42:46,730 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2016-12-28 15:42:55,010 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleMysqlApplication in 9.447 seconds (JVM running for 10.364)
+2016-12-28 15:44:35,921 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMysqlApplication on luohuasen with PID 5640 (D:\hand\spring-boot-sample-mysql\target\classes started by seth in D:\hand\spring-boot-sample-mysql)
+2016-12-28 15:44:35,924 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+2016-12-28 15:44:35,926 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2016-12-28 15:44:44,039 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleMysqlApplication in 8.807 seconds (JVM running for 9.557)
+2016-12-28 15:45:20,823 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMysqlApplication on luohuasen with PID 6408 (D:\hand\spring-boot-sample-mysql\target\classes started by seth in D:\hand\spring-boot-sample-mysql)
+2016-12-28 15:45:20,828 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+2016-12-28 15:45:20,828 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2016-12-28 15:45:29,344 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleMysqlApplication in 9.357 seconds (JVM running for 10.264)
+2016-12-28 15:46:27,475 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMysqlApplication on luohuasen with PID 6500 (D:\hand\spring-boot-sample-mysql\target\classes started by seth in D:\hand\spring-boot-sample-mysql)
+2016-12-28 15:46:27,482 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+2016-12-28 15:46:27,482 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2016-12-28 15:46:36,222 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleMysqlApplication in 9.73 seconds (JVM running for 12.187)
+2016-12-28 15:51:28,463 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMysqlApplication on luohuasen with PID 6492 (D:\hand\spring-boot-sample-mysql\target\classes started by seth in D:\hand\spring-boot-sample-mysql)
+2016-12-28 15:51:28,485 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+2016-12-28 15:51:28,486 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2016-12-28 15:51:37,329 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleMysqlApplication in 10.093 seconds (JVM running for 11.068)
+2016-12-28 15:52:10,506 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleMysqlApplication on luohuasen with PID 7832 (D:\hand\spring-boot-sample-mysql\target\classes started by seth in D:\hand\spring-boot-sample-mysql)
+2016-12-28 15:52:10,510 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+2016-12-28 15:52:10,512 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2016-12-28 15:52:18,963 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleMysqlApplication in 9.52 seconds (JVM running for 10.467)
+2016-12-28 15:52:34,595 DEBUG (DataController.java:23)- list

@@ -1,0 +1,106 @@
+2017-03-10 11:43:52,462 INFO (StartupInfoLogger.java:48)- Starting StudentTest on luohuasen with PID 4160 (started by seth in D:\hand\spring-boot-sample-mysql)
+2017-03-10 11:43:52,463 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+2017-03-10 11:43:52,464 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2017-03-10 11:48:08,834 INFO (StartupInfoLogger.java:48)- Starting StudentTest on luohuasen with PID 7840 (started by seth in D:\hand\spring-boot-sample-mysql)
+2017-03-10 11:48:08,835 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+2017-03-10 11:48:08,835 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2017-03-10 12:29:02,429 INFO (StartupInfoLogger.java:48)- Starting StudentTest on luohuasen with PID 4664 (started by seth in D:\hand\spring-boot-sample-mysql)
+2017-03-10 12:29:02,436 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+2017-03-10 12:29:02,441 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2017-03-10 12:40:49,567 INFO (StartupInfoLogger.java:48)- Starting StudentTest on luohuasen with PID 7756 (started by seth in D:\hand\spring-boot-sample-mysql)
+2017-03-10 12:40:49,568 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+2017-03-10 12:40:49,569 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2017-03-10 12:56:29,707 INFO (StartupInfoLogger.java:48)- Starting StudentTest on luohuasen with PID 7256 (started by seth in D:\hand\spring-boot-sample-mysql)
+2017-03-10 12:56:29,708 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+2017-03-10 12:56:29,712 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2017-03-10 13:21:40,172 INFO (StartupInfoLogger.java:48)- Starting StudentTest on luohuasen with PID 7584 (started by seth in D:\hand\spring-boot-sample-mysql)
+2017-03-10 13:21:40,174 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+2017-03-10 13:21:40,176 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2017-03-10 13:26:49,568 INFO (StartupInfoLogger.java:48)- Starting StudentTest on luohuasen with PID 5524 (started by seth in D:\hand\spring-boot-sample-mysql)
+2017-03-10 13:26:49,569 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+2017-03-10 13:26:49,570 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2017-03-10 13:34:55,271 INFO (StartupInfoLogger.java:48)- Starting StudentTest on luohuasen with PID 7844 (started by seth in D:\hand\spring-boot-sample-mysql)
+2017-03-10 13:34:55,274 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+2017-03-10 13:34:55,275 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2017-03-10 13:38:59,196 INFO (StartupInfoLogger.java:48)- Starting StudentTest on luohuasen with PID 8020 (started by seth in D:\hand\spring-boot-sample-mysql)
+2017-03-10 13:38:59,196 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+2017-03-10 13:38:59,204 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2017-03-10 13:44:48,856 INFO (StartupInfoLogger.java:48)- Starting StudentTest on luohuasen with PID 6272 (started by seth in D:\hand\spring-boot-sample-mysql)
+2017-03-10 13:44:48,858 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+2017-03-10 13:44:48,859 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2017-03-10 13:45:34,152 INFO (StartupInfoLogger.java:48)- Starting StudentTest on luohuasen with PID 2856 (started by seth in D:\hand\spring-boot-sample-mysql)
+2017-03-10 13:45:34,153 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+2017-03-10 13:45:34,156 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2017-03-10 13:47:20,478 INFO (StartupInfoLogger.java:48)- Starting StudentTest on luohuasen with PID 3880 (started by seth in D:\hand\spring-boot-sample-mysql)
+2017-03-10 13:47:20,479 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+2017-03-10 13:47:20,479 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2017-03-10 13:48:06,778 INFO (StartupInfoLogger.java:48)- Starting StudentTest on luohuasen with PID 6876 (started by seth in D:\hand\spring-boot-sample-mysql)
+2017-03-10 13:48:06,778 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+2017-03-10 13:48:06,779 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2017-03-10 13:48:58,210 INFO (StartupInfoLogger.java:48)- Starting StudentTest on luohuasen with PID 6344 (started by seth in D:\hand\spring-boot-sample-mysql)
+2017-03-10 13:48:58,211 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+2017-03-10 13:48:58,212 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2017-03-10 13:49:33,083 INFO (StartupInfoLogger.java:48)- Starting StudentTest on luohuasen with PID 5532 (started by seth in D:\hand\spring-boot-sample-mysql)
+2017-03-10 13:49:33,084 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+2017-03-10 13:49:33,085 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2017-03-10 13:52:00,980 INFO (StartupInfoLogger.java:48)- Starting StudentTest on luohuasen with PID 6540 (started by seth in D:\hand\spring-boot-sample-mysql)
+2017-03-10 13:52:00,981 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+2017-03-10 13:52:00,982 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2017-03-10 13:58:12,504 INFO (StartupInfoLogger.java:48)- Starting StudentTest on luohuasen with PID 7880 (started by seth in D:\hand\spring-boot-sample-mysql)
+2017-03-10 13:58:12,505 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+2017-03-10 13:58:12,505 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2017-03-10 13:59:03,141 INFO (StartupInfoLogger.java:48)- Starting StudentTest on luohuasen with PID 4700 (started by seth in D:\hand\spring-boot-sample-mysql)
+2017-03-10 13:59:03,142 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+2017-03-10 13:59:03,143 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2017-03-10 14:00:17,976 INFO (StartupInfoLogger.java:48)- Starting StudentTest on luohuasen with PID 5652 (started by seth in D:\hand\spring-boot-sample-mysql)
+2017-03-10 14:00:17,977 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+2017-03-10 14:00:17,983 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2017-03-10 14:00:42,282 INFO (StartupInfoLogger.java:48)- Starting StudentTest on luohuasen with PID 7444 (started by seth in D:\hand\spring-boot-sample-mysql)
+2017-03-10 14:00:42,282 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+2017-03-10 14:00:42,283 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2017-03-10 14:08:47,006 INFO (StartupInfoLogger.java:48)- Starting StudentTest on luohuasen with PID 4056 (started by seth in D:\hand\spring-boot-sample-mysql)
+2017-03-10 14:08:47,007 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+2017-03-10 14:08:47,007 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2017-03-10 14:13:51,347 INFO (StartupInfoLogger.java:48)- Starting StudentTest on luohuasen with PID 5588 (started by seth in D:\hand\spring-boot-sample-mysql)
+2017-03-10 14:13:51,348 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+2017-03-10 14:13:51,351 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2017-03-10 14:15:48,083 INFO (StartupInfoLogger.java:48)- Starting StudentTest on luohuasen with PID 7488 (started by seth in D:\hand\spring-boot-sample-mysql)
+2017-03-10 14:15:48,085 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+2017-03-10 14:15:48,086 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2017-03-10 14:16:24,441 INFO (StartupInfoLogger.java:48)- Starting StudentTest on luohuasen with PID 5440 (started by seth in D:\hand\spring-boot-sample-mysql)
+2017-03-10 14:16:24,442 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+2017-03-10 14:16:24,442 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2017-03-10 14:17:37,072 INFO (StartupInfoLogger.java:48)- Starting StudentTest on luohuasen with PID 5660 (started by seth in D:\hand\spring-boot-sample-mysql)
+2017-03-10 14:17:37,086 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+2017-03-10 14:17:37,087 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2017-03-10 14:18:50,878 INFO (StartupInfoLogger.java:48)- Starting StudentTest on luohuasen with PID 896 (started by seth in D:\hand\spring-boot-sample-mysql)
+2017-03-10 14:18:50,932 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+2017-03-10 14:18:50,934 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2017-03-10 14:19:04,554 INFO (StartupInfoLogger.java:57)- Started StudentTest in 14.578 seconds (JVM running for 15.725)
+2017-03-10 14:19:35,235 INFO (StartupInfoLogger.java:48)- Starting StudentTest on luohuasen with PID 6656 (started by seth in D:\hand\spring-boot-sample-mysql)
+2017-03-10 14:19:35,236 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+2017-03-10 14:19:35,237 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2017-03-10 14:19:42,521 INFO (StartupInfoLogger.java:57)- Started StudentTest in 8.149 seconds (JVM running for 9.84)
+2017-03-10 15:50:41,389 INFO (StartupInfoLogger.java:48)- Starting StudentTest on luohuasen with PID 7788 (started by seth in D:\hand\spring-boot-sample-mysql)
+2017-03-10 15:50:41,390 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+2017-03-10 15:50:41,394 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2017-03-10 15:50:50,432 INFO (StartupInfoLogger.java:57)- Started StudentTest in 10.024 seconds (JVM running for 11.656)
+2017-03-10 15:53:20,258 INFO (StartupInfoLogger.java:48)- Starting StudentTest on luohuasen with PID 3512 (started by seth in D:\hand\spring-boot-sample-mysql)
+2017-03-10 15:53:20,259 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+2017-03-10 15:53:20,259 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2017-03-10 15:54:05,641 INFO (StartupInfoLogger.java:48)- Starting StudentTest on luohuasen with PID 5596 (started by seth in D:\hand\spring-boot-sample-mysql)
+2017-03-10 15:54:05,642 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+2017-03-10 15:54:05,642 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2017-03-10 15:54:43,512 INFO (StartupInfoLogger.java:48)- Starting StudentTest on luohuasen with PID 7332 (started by seth in D:\hand\spring-boot-sample-mysql)
+2017-03-10 15:54:43,513 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+2017-03-10 15:54:43,513 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2017-03-10 15:58:29,651 INFO (StartupInfoLogger.java:48)- Starting StudentTest on luohuasen with PID 5696 (started by seth in D:\hand\spring-boot-sample-mysql)
+2017-03-10 15:58:29,652 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+2017-03-10 15:58:29,653 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2017-03-10 15:59:17,828 INFO (StartupInfoLogger.java:48)- Starting StudentTest on luohuasen with PID 7540 (started by seth in D:\hand\spring-boot-sample-mysql)
+2017-03-10 15:59:17,829 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+2017-03-10 15:59:17,830 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2017-03-10 16:22:20,640 INFO (StartupInfoLogger.java:48)- Starting StudentTest on luohuasen with PID 7436 (started by seth in D:\hand\spring-boot-sample-mysql)
+2017-03-10 16:22:20,642 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.4.3.RELEASE, Spring v4.3.5.RELEASE
+2017-03-10 16:22:20,646 INFO (SpringApplication.java:661)- No active profile set, falling back to default profiles: default
+2017-03-10 16:22:30,428 INFO (StartupInfoLogger.java:57)- Started StudentTest in 10.899 seconds (JVM running for 12.266)
