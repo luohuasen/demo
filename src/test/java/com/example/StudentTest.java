@@ -24,6 +24,5 @@ public class StudentTest {
         List<Student> list = studentRepository.findAll();
         System.out.println("获取学生个数为："+list.size());
         Assert.notEmpty(list);
-        Assert.notEmpty(list);
     }
 }
